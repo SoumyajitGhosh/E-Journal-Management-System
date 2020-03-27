@@ -1,1 +1,1 @@
-# Code_Junk
+# E-Journal Management System
